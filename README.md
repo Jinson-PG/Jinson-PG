@@ -36,10 +36,12 @@ I build end-to-end, production-ready applications across any platform—from mob
 
 ### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinson-PG&show_icons=true&theme=tokyonight" alt="Jinson's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinson-PG&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jinson-PG&show_icons=true&theme=tokyonight&count_private=true" alt="Jinson's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinson-PG&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
