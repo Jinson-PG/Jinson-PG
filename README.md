@@ -1,51 +1,55 @@
-# Hi there, I'm Jinson 👋
-### 🚀 Full-Stack & Cross-Platform Engineer | AI-Assisted Vibe Coder
+# Jinson
 
-I build end-to-end, production-ready applications across any platform—from mobile and web apps to Python backends and AI integrations.
+**Independent Software Developer | Creator of GraphMyTrade**
 
----
+Kerala, India · [Website](https://graphmytrade.com) · [Email](mailto:jinsongeorge62@gmail.com)
 
-### 💻 What I Build & Capabilities
+I develop desktop, mobile and web applications, with a focus on trading software and business tools. My work spans application interfaces, API integrations, data workflows and product delivery.
 
-- 📱 **Mobile Apps:** Flutter, React Native, Native Android (Kotlin/Java)
-- 🌐 **Web Applications:** Modern Web Frameworks, Responsive UI/UX
-- ⚙️ **Backend & Scripting:** Python, REST APIs, Database Architecture
-- 🤖 **AI-Driven Workflows:** Rapid development using ChatGPT, Claude, Cursor & GitHub Copilot
+I am currently building **GraphMyTrade**, my independent software product for trading journals and performance analysis.
 
----
+## Featured Project
 
-### 🔀 Git & GitHub Expertise (Professional Workflow)
+### GraphMyTrade
 
-- 🌿 **Advanced Git Workflows:** Feature branching, merge strategies, rebase, and clean commit history.
-- 🔀 **Pull Requests & Code Reviews:** Structured PRs with complete test documentation and clean diffs.
-- ⚙️ **CI/CD & Project Management:** GitHub Actions, Issue tracking, Milestones, and Automated Pipelines.
-- 🤖 **AI + Git Synergy:** Fast-paced development using AI tools (ChatGPT, Claude) managed seamlessly inside Git environments.
+**Creator & Developer · In Development**
 
----
+GraphMyTrade is being developed as a desktop workspace that helps traders organize their trading activity, review performance and work with their data through a clear, accessible interface.
 
-### 🛠️ Tech Stack & Tools
+The product brings together trading journals, analytical dashboards and reporting, with an emphasis on usability, privacy and local data ownership.
+
+[Visit graphmytrade.com](https://graphmytrade.com)
+
+## Development Focus
+
+- **Desktop Software:** Trading journals, analytics dashboards and productivity tools.
+- **Mobile Applications:** Cross-platform applications built with Flutter and Dart.
+- **Web Applications:** Responsive interfaces, admin dashboards and business workflows.
+- **Backend & Data:** Python utilities, REST API integrations and data processing.
+
+## Technical Stack
 
 | Area | Technologies |
 | :--- | :--- |
-| **Mobile** | Flutter, Dart, React Native, Android SDK, Java, Kotlin |
-| **Web & Backend** | JavaScript, Python, Remix, HTML5, CSS3, REST APIs |
-| **AI Tools** | ChatGPT, Claude 3.5, GitHub Copilot, Prompt Engineering |
-| **DevOps & Version Control** | Git, GitHub, GitHub Actions, Branching, PR Workflows |
+| Languages | Dart, Python, JavaScript, HTML, CSS |
+| Application Development | Flutter, Remix, Android SDK |
+| Backend & Services | Supabase, REST APIs |
+| Hosting & Tooling | Firebase Hosting, Git, GitHub, VS Code |
+| AI Development Tools | ChatGPT, Claude, Cursor, GitHub Copilot |
 
----
+## Engineering Approach
 
-### 📊 My GitHub Stats
+- Translate user requirements into straightforward application workflows.
+- Organize code around clear responsibilities and maintainable components.
+- Use Git for version control, focused changes and traceable development.
+- Include debugging, testing and practical validation in the development process.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinson-PG&show_icons=true&theme=tokyonight&count_private=true" alt="Jinson's GitHub Stats" />
-</p>
+AI-assisted tools support my workflow alongside hands-on implementation, review and testing.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinson-PG&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
+## Contact
 
----
+For project enquiries and professional collaboration:
 
-📫 **Connect with me:**
-- 📧 Email: jinsongeorge62@gmail.com
-- 📍 Location: Kerala, India
+**Email:** [jinsongeorge62@gmail.com](mailto:jinsongeorge62@gmail.com)  
+**Website:** [graphmytrade.com](https://graphmytrade.com)  
+**GitHub:** [github.com/Jinson-PG](https://github.com/Jinson-PG)
